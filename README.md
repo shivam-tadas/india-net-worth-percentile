@@ -28,3 +28,7 @@ A sleek, interactive Vite + React application that visualizes the distribution o
    npm run dev
    ```
 4. Open the link provided in the CLI output. (Typically `http://localhost:5173/` or `http://localhost:5174/`)
+
+## Note
+
+This is a vibe-coded project made using Antigravity and Gemini 3.1 Pro (Low). This project may contain bugs or may not be production-ready.
